@@ -1,5 +1,11 @@
 title: "Galilea Cabrales"
+logo: assets/img/foto.png
 description: "¡Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos."
+show_downloads: false
+github:
+  is_project_page: false
+  owner_name: "Galilea Cabrales"
+  owner_url: "https://github.com/GalileaCabrales"
 theme: jekyll-theme-minimal
 url: "https://galileacabrales.github.io"
 author: "Galilea Cabrales"
